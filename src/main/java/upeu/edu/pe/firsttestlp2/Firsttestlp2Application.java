@@ -7,7 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Firsttestlp2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Firsttestlp2Application.class, args);
+	
+            
+            
+            SpringApplication.run(Firsttestlp2Application.class, args);
 	}
+        
+      
 
 }
